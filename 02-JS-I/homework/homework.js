@@ -303,7 +303,7 @@ module.exports = {
   nuevaResta,
   nuevaMultiplicacion,
   nuevoModulo,
-  devolverString,
+  devolverString,  
   tienenMismaLongitud,
   sonIguales,
   menosQueNoventa,
