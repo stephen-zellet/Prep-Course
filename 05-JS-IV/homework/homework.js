@@ -110,7 +110,7 @@ function verificarPassword (usuario, password) {
   // De lo contrario, devuelve "false"
   // Tu código:
 
-  if (usuario["password"] === password){
+  if (usuario['password'] === password){
     return true
   }else return false 
 
